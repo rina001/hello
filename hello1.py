@@ -1,1 +1,1 @@
-print("Everything will be ok")
+print("Everything will be ok, hello-world")
